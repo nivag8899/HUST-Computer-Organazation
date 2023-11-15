@@ -1,2 +1,6 @@
-# HUST-Computation-Organazation
- 华中科技大学21级硬件综合训练
+# HUST-Computer-Organazation
+ 华中科技大学21级硬件综合训练\
+\
+两周的课设拖到十二周再交，只能说是大三上最折磨的一集之一(另一集是接口技术）\
+本人CCAB是SRA、SLTIU、LBU、BGEU，实现步骤是cos梦魇融合怪把能缝的都缝了（包括单级、多级中断，单级的流水线中断以及动态分支预测）
+
